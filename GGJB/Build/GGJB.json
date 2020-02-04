@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GGJProject",
+"productVersion": "1.0",
+"dataUrl": "GGJB.data.unityweb",
+"wasmCodeUrl": "GGJB.wasm.code.unityweb",
+"wasmFrameworkUrl": "GGJB.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.5f1"
+}
